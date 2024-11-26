@@ -1,1 +1,2 @@
-Merge teste
+Merge teste 
+Teste de commit
