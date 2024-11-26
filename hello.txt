@@ -1,2 +1,2 @@
 Merge teste 
-Teste de conflito
+Teste de conflito.
