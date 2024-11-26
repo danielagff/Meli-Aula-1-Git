@@ -1,2 +1,2 @@
 Merge teste 
-Teste de commit
+Teste de conflito
