@@ -2,3 +2,4 @@ Merge teste
 Teste de conflito
 Irá dar conflito
 Teste de conflito.
+Conflito teste com o Daniel
